@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-FarAwayProject/static/css/main.3a75eebe.css",
+    "main.js": "/React-FarAwayProject/static/js/main.c323bedb.js",
+    "index.html": "/React-FarAwayProject/index.html",
+    "main.3a75eebe.css.map": "/React-FarAwayProject/static/css/main.3a75eebe.css.map",
+    "main.c323bedb.js.map": "/React-FarAwayProject/static/js/main.c323bedb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a75eebe.css",
+    "static/js/main.c323bedb.js"
+  ]
+}
